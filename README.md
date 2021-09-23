@@ -19,3 +19,7 @@ My initial set of project will be used with Node-Red and ESPHome set up to commu
 
 ## Living Room Sensor
 This sensor will be mainly an environment sensor for the living room of my holiday home. It will be moniting temperature, humidity and pressure, and also include a radar motion sensor. The sensor is mains powered.
+This board users a BME 680 sensor that measures temperautre, humidity, pressure and VOC and a radar or microwave motion sensor. The motion sensor has a simple digital output, therefore it you prefer to use a more regulare PIR sensor, you can just replace that. The header for the motion sensor contains 5V and GND and the OUT pin is the digital out from the sensor. Links to the sensors can be found in the PCB project page (link above).
+This video explains more details on this project and how the livingroom.yaml file works:
+
+[![Living Room](https://img.youtube.com/vi/a3iay-g1AsI/0.jpg)](https://www.youtube.com/watch?v=a3iay-g1AsI)
