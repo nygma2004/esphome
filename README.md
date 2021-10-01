@@ -29,4 +29,4 @@ This sensor will be controlling a Aerauliqa Quantum HR-150 extractor fan which h
 Links to the sensors can be found in the PCB project page (link above).
 This video explains more details on this project and how the livingroom.yaml file works:
 
-[![Living Room](https://img.youtube.com/vi/UlQvo3mngLM/0.jpg)](https://www.youtube.com/watch?v=UlQvo3mngLM)
+[![Fan Controller](https://img.youtube.com/vi/UlQvo3mngLM/0.jpg)](https://www.youtube.com/watch?v=UlQvo3mngLM)
